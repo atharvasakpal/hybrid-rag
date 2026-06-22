@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+data/
+scale_test_log*.txt
+evaluation/reports/

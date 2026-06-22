@@ -1,0 +1,38 @@
+# Document loading
+pypdf
+python-docx
+
+# Chunking + embeddings
+langchain
+langchain-community
+langchain-experimental
+sentence-transformers
+
+# Vector store
+chromadb
+
+# Keyword search
+elasticsearch
+
+# Reranking
+cohere
+
+# LLM
+groq
+
+# Evaluation
+ragas
+datasets
+
+# API
+fastapi
+uvicorn
+python-dotenv
+pydantic
+
+# Dashboard
+streamlit
+
+# Utilities
+pandas
+tqdm
